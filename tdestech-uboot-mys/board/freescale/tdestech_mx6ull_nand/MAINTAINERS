@@ -1,0 +1,6 @@
+MX6ULLEVK BOARD
+M:	Peng Fan <peng.fan@nxp.com>
+S:	Maintained
+F:	board/freescale/tdestech_mx6ull_nand/
+F:	include/configs/tdestech_mx6ull_nand.h
+F:	configs/tdestech_mx6ull_nand_defconfig

@@ -1,0 +1,15 @@
+if TARGET_TDESTECH_MX6ULL_NAND
+
+config SYS_BOARD
+	default "tdestech_mx6ull_nand"
+
+config SYS_VENDOR
+	default "freescale"
+
+config SYS_SOC
+	default "mx6"
+
+config SYS_CONFIG_NAME
+	default "tdestech_mx6ull_nand"
+
+endif
