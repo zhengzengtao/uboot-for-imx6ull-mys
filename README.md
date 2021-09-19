@@ -48,7 +48,9 @@
 
 E-mail: [z_zt@msn.com](mailto:z_zt@msn.com)
 
-https://github.com/zhengzengtao/tlv.git
+https://github.com/zhengzengtao/uboot-for-imx6ull-mys
+
+https://gitee.com/zhengzengtao/uboot-for-imx6ull-mys
 
 
 
